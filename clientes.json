@@ -1,0 +1,24 @@
+[
+{
+    "email": "juana@gmail.com",
+   "password": "23242",
+    "nombre": "Pepe",
+   "apellido": "rosmas",
+  "Pais":"Peru"
+},
+{
+    "email": "papas@gmail.com",
+   "password": "554444",
+    "nombre": "Juana",
+   "apellido": "tutuca",
+  "Pais":"Chile"
+},
+{
+    "email": "tonana@gmail.com",
+   "password": "482324",
+    "nombre": "Bresner",
+   "apellido": "Leon",
+  "Pais":"Venezuela"
+}
+
+]
