@@ -1,0 +1,11 @@
+//databse
+use('clientes');
+
+db.register.insertOne({
+    email: "papas@gmail.com",
+    password: "554444",
+     nombre: "Juana",
+    apellido: "tutuca",
+   Pais:"Chile"
+
+})
